@@ -1,0 +1,38 @@
+*{
+    color: red
+}
+
+p, span {
+    color:blue;
+    width: 300px;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    border: 1px solid black;
+    padding: 5px;
+    margin-top:40px;
+    margin-bottom: 20px;
+    margin-left: 15px;
+    margin-right: 10px;
+    font-weight: bold;
+    color: grey;
+}
+
+section {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+  }
+
+  #mi_parrafo {
+    color: blueviolet;
+    font-size: 23px;
+    border: 2px solid orangered;
+  }
+
+  .estaesmiclase {
+    font-weight: bold;
+    color: aqua;
+  }
